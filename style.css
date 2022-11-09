@@ -1,0 +1,37 @@
+body{
+  background-image: url(bg.jpg);
+}
+
+table, th, td {
+border:5px solid black;
+padding: 10px;
+  padding: 30px;
+  font-size: 30px;
+}
+
+img{
+  float: right;
+  opacity: 99%
+}
+
+.bar{
+  color: black;
+  padding: 2px;
+  float: left;
+  padding: 3px;
+}
+
+p{
+  font-size: 25px;
+}
+
+a{
+  font-size:30px;
+  color: blue;
+  padding: 50px;
+  float: left;
+}
+H2{
+  font-size: 40px;
+  color: green;
+}
